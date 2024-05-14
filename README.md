@@ -7,10 +7,10 @@
         <span style="color: #1284C5; display: flex; justify-content: end; padding-right: 10px;">-Richard Stallman</span>
     </h2>
 </div>
-<p align="left">
+<p align="right">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tsukipond8531&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-<p align="right">
+<p align="left">
     <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monolab825&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
