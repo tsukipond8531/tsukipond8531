@@ -10,7 +10,7 @@
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px" style="font-size: 20px;"><b>Frontend<b></td>
+      <h2 valign="center" width="100px" style="font-size: 20px;"><b>Frontend<b></h2>
     </tr>
     <tr>
       <td valign="center" align="center" width="900px">
