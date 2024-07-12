@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Next-g" height="26px" /> 
         <img src="https://img.shields.io/badge/Vue-g" height="26px" /> 
         <img src="https://img.shields.io/badge/Nuxt-g" height="26px" /> 
-        <img src="https://img.shields.io/badge/Angular-g" height="26px"/> 
+<!--         <img src="https://img.shields.io/badge/Angular-g" height="26px"/>  -->
         <img src="https://img.shields.io/badge/Svelte-g" height="26px" /> 
         <img src="https://img.shields.io/badge/TypeScript-g" height="26px" />
         <img src="https://img.shields.io/badge/Bootstrap-g" height="26px" /> 
@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/Laravel-blue" height="26px" /> 
         <img src="https://img.shields.io/badge/Ruby-blue" height="26px" /> 
         <img src="https://img.shields.io/badge/Ruby on Rails-blue" height="26px" /> 
-        <img src="https://img.shields.io/badge/Django-blue" height="26px" /> 
+<!--         <img src="https://img.shields.io/badge/Django-blue" height="26px" />  -->
         <img src="https://img.shields.io/badge/Python-blue" height="26px" /> 
         <img src="https://img.shields.io/badge/ASP.NET-blue" height="26px" /> 
         <img src="https://img.shields.io/badge/Go-blue" height="26px" /> 
