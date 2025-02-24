@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/badge/TypeScript-g" height="26px" />
         <img src="https://img.shields.io/badge/Bootstrap-g" height="26px" /> 
         <img src="https://img.shields.io/badge/Tailwind-g" height="26px" /> 
+        <img src="https://img.shields.io/badge/MUI-g" height="26px" /> 
       </td>      
     </tr>
   </table>
@@ -55,9 +56,8 @@
       <td valign="center" align="center" width="900px">
         <img src="https://img.shields.io/badge/Solidity-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Rust-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Web3.js-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Web3-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Golang-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Solana-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/EVM-violet" height="26px" />
         <img src="https://img.shields.io/badge/Bitcoin-violet" height="26px" />
