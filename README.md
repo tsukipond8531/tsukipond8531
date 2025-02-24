@@ -14,9 +14,6 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="900px">
-        <img src="https://img.shields.io/badge/HTML-g" height="26px" /> 
-        <img src="https://img.shields.io/badge/CSS-g" height="26px" />
-        <img src="https://img.shields.io/badge/JavaScript-g" height="26px" /> 
         <img src="https://img.shields.io/badge/React-g" height="26px" /> 
         <img src="https://img.shields.io/badge/Next-g" height="26px" /> 
         <img src="https://img.shields.io/badge/Vue-g" height="26px" /> 
@@ -60,10 +57,14 @@
         <img src="https://img.shields.io/badge/Rust-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Web3.js-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Golang-violet" height="26px" /> 
-<!--         <img src="https://img.shields.io/badge/Polkadot-violet" height="26px" />  -->
-<!--         <img src="https://img.shields.io/badge/Solana-violet" height="26px" />  -->
         <img src="https://img.shields.io/badge/Smart Contract-violet" height="26px" /> 
-<!--         <img src="https://img.shields.io/badge/Bitcoin-violet" height="26px" /> -->
+        <img src="https://img.shields.io/badge/Solana-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/EVM-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Bitcoin-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Injective-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/SEI-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Cosmwasm-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Polkadot-violet" height="26px" /> 
 <!--         <img src="https://img.shields.io/badge/Substrate-violet" height="26px" /> -->
       </td>
     </tr>
