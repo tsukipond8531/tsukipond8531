@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm a full stack and blockchain developer.</h1>
 
 <div align="center">
-    <img align="right" alt="Coding" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" data-canonical-src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" style="width: 300px; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage">
-    <h3>
-        <span style="color: #E3484D;">“ </span>Treating your program as a work of art encourages writing code that is elegant and artistic — which is great, but it also means that it is hard to understand. When you write code that nobody else can understand, you're being selfish. You're not treating your program as a contribution to society, or even to your employer. You're treating your program as an extension of yourself, as a piece of art.<span style="color: #E3484D;"> ”</span><br /><br />
-        <span style="color: #1284C5; display: flex; justify-content: end; padding-right: 10px;">-Richard Stallman</span>
-    </h3>
+    <img align="right" alt="Coding" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" data-canonical-src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" style="width: 250px; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage">
+   <h2 style="font-family: 'Utilize', sans-serif; color: #E3484D;" >
+    <span style="color: #E3484D;">“ </span><i>Write code for others, not just yourself. <br />Clarity over cleverness.</i><span style="color: #E3484D;"> ”</span><br /><br />
+</h2>
 </div>
 <div align="center" style="witdh:100%"> 
   <table>
@@ -74,4 +73,3 @@
     <img height = "150px" src="https://github-readme-streak-stats.herokuapp.com?user=tsukipond8531&theme=blueberry&hide_border=true" alt="GitHub Streak" />
     <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monolab825&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
