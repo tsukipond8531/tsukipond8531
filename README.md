@@ -70,6 +70,5 @@
   </table>
 </div>
 <p align="center">
-    <img height = "150px" src="https://github-readme-streak-stats.herokuapp.com?user=tsukipond8531&theme=blueberry&hide_border=true" alt="GitHub Streak" />
-    <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monolab825&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img height = "200px" src="https://github-readme-streak-stats.herokuapp.com?user=tsukipond8531&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" />
 </p>
