@@ -1,4 +1,7 @@
-<h1 align="center" style="font-size: 30px;">Hi 👋, I'm a full stack and blockchain developer.</h1>
+<h1 align="center" style="font-size: 30px;">Senior Software Engineer</h1>
+<div align="center">
+  <img src="https://github.com/tsukipond8531/tsukipond8531/blob/main/new.jpg" alt=""/>
+</div>
 
 <div align="center">
   <img align="right" alt="Coding" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" data-canonical-src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" style="width: 240px; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage">
@@ -49,26 +52,69 @@
   
  <table>
     <tr>
-      <td valign="center" width="100px" style="font-size: 20px;"><b>Blockchain<b></td>
+      <td valign="center" width="100px" style="font-size: 20px;"><b>Blockchain Expertise<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="900px">
-        <img src="https://img.shields.io/badge/Solidity-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Rust-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Web3-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Golang-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Solana-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/EVM-violet" height="26px" />
-        <img src="https://img.shields.io/badge/Bitcoin-violet" height="26px" />
-        <img src="https://img.shields.io/badge/Injective-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/SEI-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Cosmwasm-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Polkadot-violet" height="26px" /> 
-<!--         <img src="https://img.shields.io/badge/Substrate-violet" height="26px" /> -->
+        <img src="https://img.shields.io/badge/Solidity-FF9900" height="26px" /> 
+        <img src="https://img.shields.io/badge/Rust-FF9900" height="26px" /> 
+        <img src="https://img.shields.io/badge/Web3-FF9900" height="26px" /> 
+        <img src="https://img.shields.io/badge/Golang-FF9900" height="26px" /> 
+        <img src="https://img.shields.io/badge/ethers.js-FF9900" height="26px" /> 
+        <img src="https://img.shields.io/badge/Smart Contract Auditing-FF9900" height="26px" />
+        <img src="https://img.shields.io/badge/CrossChain Integrations-FF9900" height="26px" />
+      </td>
+    </tr>
+  </table>
+        
+ <table>
+    <tr>
+      <td valign="center" width="100px" style="font-size: 20px;"><b>Security<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="900px">
+        <img src="https://img.shields.io/badge/Penetration Testing-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Cryptographic Operations-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Secure Key Management-violet" height="26px" /> 
+        <img src="https://img.shields.io/badge/Vulnerability Assessments-violet" height="26px" /> 
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td valign="center" width="100px" style="font-size: 20px;"><b>DevOps & Cloud<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="900px">
+        <img src="https://img.shields.io/badge/AWS (EC2, S3, Lambda)-FF5252" height="26px" /> 
+        <img src="https://img.shields.io/badge/Docker-FF5252" height="26px" /> 
+        <img src="https://img.shields.io/badge/Git-FF5252" height="26px" /> 
+        <img src="https://img.shields.io/badge/GitHub-FF5252" height="26px" /> 
+        <img src="https://img.shields.io/badge/Actions-FF5252" height="26px" /> 
+        <img src="https://img.shields.io/badge/CI/CD-FF5252" height="26px" /> 
+      </td>
+    </tr>
+  </table>
+        
+  <table>
+    <tr>
+      <td valign="center" width="100px" style="font-size: 20px;"><b>Testing & Deployment<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="900px">
+        <img src="https://img.shields.io/badge/Hardhat-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Foundry-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Truffle-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Jest-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Mocha-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Chai-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/Webpack-grey" height="26px" /> 
+        <img src="https://img.shields.io/badge/GitLab CI/CD-grey" height="26px" /> 
       </td>
     </tr>
   </table>
 </div>
-<p align="center">
+<!-- <p align="center">
     <img height = "200px" src="https://github-readme-streak-stats.herokuapp.com?user=tsukipond8531&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
