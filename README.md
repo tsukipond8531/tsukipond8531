@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img align="right" alt="Coding" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" data-canonical-src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" style="width: 240px; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage">
+  <!-- <img align="right" alt="Coding" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" data-canonical-src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" style="width: 240px; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"> -->
   <h1 style="font-size: 28px;"><br />
     <span style="color: #E3484D;">“ </span><i>Write code for others, not just yourself. <br />Clarity over cleverness.</i><span style="color: #E3484D;"> ”</span><br /><br /><br />
   </h1>
